@@ -1,0 +1,10 @@
+back
+use network
+use vuln
+use attack
+set target
+create report
+clear logs
+exit
+help
+clear
