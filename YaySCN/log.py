@@ -123,7 +123,8 @@ html = f"""
 </html>
 """
 
-
+if not os.path.exits("Reports"):
+    os.system("mkdir Reports")
 
 path = 'Reports/'
 file_count = len([f for f in os.listdir(path) if os.path.isfile(os.path.join(path, f))])
