@@ -123,7 +123,7 @@ html = f"""
 </html>
 """
 
-if not os.path.exits("Reports"):
+if not os.path.exists("Reports"):
     os.system("mkdir Reports")
 
 path = 'Reports/'
