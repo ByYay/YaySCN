@@ -78,7 +78,7 @@ html = f"""
 </head>
 <body>
     <h1>Log Report</h1>
-    <h2>By Yay - https://github.com/YayForge</h2>
+    <h2>By Yay - https://github.com/ByYay</h2>
 
     <div class="log-section">
         <h2>Discovery Log</h2>
